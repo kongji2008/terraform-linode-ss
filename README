@@ -1,0 +1,3 @@
+terraform init
+terraform plan -var="token=xxx"
+terraform apply --auto-approve -var="token=xxx"
